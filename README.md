@@ -18,6 +18,7 @@ Projeto criado com o intuito de gerar palavras de dicas de estudo pré-Definida 
 * Conectar a um servidor
 * Aumentar a pagina
 * deixa-la mais completa
+* Fazer com que ela guarde tudo oque já foi feito anteriormente
 # Aprendizagem 
 Na criação desta pagina foi possivel compreender como definir no JavaScript para que ele mostre um item em ordem aleatoria,Como organizar melhor os itens. 
 # como clonar Repositorio
@@ -34,4 +35,4 @@ Para obter uma cópia completa do código e do histórico da pagina, use o segui
 | **Turno** | Matutino |
 | **GitHub** | [@Pedropvp39](https://github.com/Pedropvp39) |
 ## Link caso ele ainda esteja hospedado "temporariamente".
-
+https://pedropvp39.github.io/gerador-de-dicas-de-estudo/
