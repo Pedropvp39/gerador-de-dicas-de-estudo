@@ -11,7 +11,10 @@ Projeto criado com o intuito de gerar palavras de dicas de estudo pré-Definida 
 * Após isso extraia a pasta onde desejar *
 * Procure na pasta "index.html" e então click nele duas vezes e ele abrirá em seu navegador *
 # Lista de Funcionalidades
-
+* 🧠 **Geração de Dicas:** Funcionalidade principal de exibir uma **dica de estudo nova e aleatória** ao usuário.
+* 💡 **Conteúdo Curado:** Fornece um conjunto de **estratégias e métodos** práticos focados em aumentar a produtividade e retenção.
+* 🔄 **Reatividade Simples:** Botão dedicado ("Gerar nova dica") que **atualiza o conteúdo** da dica instantaneamente.
+* 📚 **Foco em Estudo:** Conteúdo específico para o contexto de **aprendizagem**, motivando o usuário a começar a estudar.
 # Melhorias Futuras 
 * Modo Escuro
 * Monitoramento
