@@ -30,8 +30,6 @@ Na criação desta pagina foi possivel compreender como definir no JavaScript pa
 Para obter uma cópia completa do código e do histórico da pagina, use o seguinte comando no seu Terminal:
 * Copie a URL HTTPS do repositório
 * "[git clone https://github.com/SeuUsuario/nome-do-site.git](https://github.com/Pedropvp39/gerador-de-dicas-de-estudo.git)"
-* Acesse a pasta do projeto
-* "cd easyfinance-app"
 # Autor
 | Campo | Informação |
 | :--- | :--- |
