@@ -5,6 +5,7 @@ Projeto criado com o intuito de gerar palavras de dicas de estudo pré-Definida 
 * **CSS**
 * **JavaScript**
 * **Git e GitHub**
+* **VS Code**
 # como Instalar
 ## ⚙️ Pré-requisitos
 * Click em "Code" e então em Download.Zip *
@@ -23,7 +24,7 @@ Projeto criado com o intuito de gerar palavras de dicas de estudo pré-Definida 
 * deixa-la mais completa
 * Fazer com que ela guarde tudo oque já foi feito anteriormente
 # Aprendizagem 
-Na criação desta pagina foi possivel compreender como definir no JavaScript para que ele mostre um item em ordem aleatoria,Como organizar melhor os itens. 
+Na criação desta pagina foi possivel compreender como definir no JavaScript para que ele mostre um item em ordem aleatoria,Como organizar melhor os itense tambem como funfionan melhor as "Function". 
 # como clonar Repositorio
 ## 🧑‍💻 Passo a Passo
 Para obter uma cópia completa do código e do histórico da pagina, use o seguinte comando no seu Terminal:
@@ -36,6 +37,7 @@ Para obter uma cópia completa do código e do histórico da pagina, use o segui
 | :--- | :--- |
 | **Autor** | Pedro Henrique.L.Cavalvanti |
 | **Turno** | Matutino |
+|| Turma de Tecnologia em Informatica para internet|
 | **GitHub** | [@Pedropvp39](https://github.com/Pedropvp39) |
 ## Link caso ele ainda esteja hospedado "temporariamente".
 https://pedropvp39.github.io/gerador-de-dicas-de-estudo/
