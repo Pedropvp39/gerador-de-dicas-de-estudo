@@ -24,7 +24,7 @@ Projeto criado com o intuito de gerar palavras de dicas de estudo pré-Definida 
 * deixa-la mais completa
 * Fazer com que ela guarde tudo oque já foi feito anteriormente
 # Aprendizagem 
-Na criação desta pagina foi possivel compreender como definir no JavaScript para que ele mostre um item em ordem aleatoria,Como organizar melhor os itense tambem como funfionan melhor as "Function". 
+Na criação desta pagina foi possivel compreender como definir no JavaScript para que ele mostre um item em ordem aleatoria,Como organizar melhor os itens e tambem como funfionan melhor as "Function". 
 # como clonar Repositorio
 ## 🧑‍💻 Passo a Passo
 Para obter uma cópia completa do código e do histórico da pagina, use o seguinte comando no seu Terminal:
